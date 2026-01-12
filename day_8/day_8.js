@@ -18,3 +18,5 @@ function productExceptSelf(nums) {
 
     return answer;
 };
+
+# this is a dsa 
