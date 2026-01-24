@@ -3,8 +3,8 @@
 Find the maximum number of consecutive 1s in a binary array.
 
 Example:
-Input: [1,1,0,1,1,1]  
-Output: 3
+Input: [10,20,30,5,10,50]
+Output: 65
 
 Approach:
 
